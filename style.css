@@ -1,8 +1,14 @@
 h1{
-    color: black;
+    color: white;
     background-color: blue;
+    text-align: center;
+    padding: 18px;
+    margin: auto;
 }
 p{
     color: black;
     background-color: #ddd;
+    width: 300px;
+    padding: 10px;
+    margin-top: auto;
 }
